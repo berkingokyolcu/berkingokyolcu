@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkingokyolcu&label=Profile%20views&color=0e75b6&style=flat" alt="berkingokyolcu" /> </p>
 
-- 🔭 I’m currently working on **ChatGPT**
+- 🔭 I’m currently working on **ChatGPT Development**
 
 - 🌱 I’m currently learning **Testing, Game Development**
 
